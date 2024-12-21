@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <h1>Sucees</h1>
+    <h1>Sucees2</h1>
   );
 }
